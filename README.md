@@ -48,7 +48,7 @@ I'm a Microsoft Certified Security Operations Analyst and Azure Security Enginee
 
 ## 🌐 Portfolio
 
-https://www.mdakatech.com
+https://keotshepileportfolio.netlify.app
 
 ---
 
@@ -56,7 +56,7 @@ https://www.mdakatech.com
 
 📧 Keotshepilendimande@gmail.com
 
-💼 LinkedIn *(add your LinkedIn URL here)*
+💼 LinkedIn- www.linkedin.com/in/keotshepile-ndimande-534252262
 
 🐙 GitHub: https://github.com/JoyNdimande
 ## 📊 GitHub Statistics
